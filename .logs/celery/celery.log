@@ -1,0 +1,190 @@
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-02 21:35:44
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7fd7d0703df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-02 21:52:38
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7fa5946b8df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-02 22:05:23
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7fa555654df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-02 22:06:40
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7f1f5edd7df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-02 22:07:38
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7f7bf917bdf0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-03 14:02:55
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7fe335ce8df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-04 14:12:56
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7f71be180df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-04 18:15:05
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7fcff5347df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-05 16:04:03
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7f622e771df0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+
+ 
+ -------------- celery@luis-wisphub v5.3.4 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-5.14.0-1059-oem-x86_64-with-glibc2.29 2024-02-06 14:01:55
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         acsense:0x7ff5d47fbdf0
+- ** ---------- .> transport:   redis://:**@localhost:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 8 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app1.tasks.add
+

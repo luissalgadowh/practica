@@ -1,0 +1,484 @@
+Usage: celery [OPTIONS] COMMAND [ARGS]...
+Try 'celery --help' for help.
+
+Error: Invalid value for '-A' / '--app': 
+Unable to load celery application.
+The module practica was not found.
+Usage: celery [OPTIONS] COMMAND [ARGS]...
+Try 'celery --help' for help.
+
+Error: Invalid value for '-A' / '--app': 
+Unable to load celery application.
+The module practica was not found.
+Usage: celery [OPTIONS] COMMAND [ARGS]...
+Try 'celery --help' for help.
+
+Error: Invalid value for '-A' / '--app': 
+Unable to load celery application.
+The module practica was not found.
+Usage: celery [OPTIONS] COMMAND [ARGS]...
+Try 'celery --help' for help.
+
+Error: Invalid value for '-A' / '--app': 
+Unable to load celery application.
+The module practica was not found.
+[2024-02-02 21:35:44,825: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 21:35:44,831: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-02 21:35:44,832: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 21:35:44,833: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-02 21:35:45,842: INFO/MainProcess] mingle: all alone
+[2024-02-02 21:35:45,863: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-02 21:35:47,219: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-02 21:46:03,146: INFO/MainProcess] Task app1.tasks.add[3d5e019f-eb71-47c6-af61-a767d7a7a9f3] received
+[2024-02-02 21:46:03,171: INFO/ForkPoolWorker-8] Task app1.tasks.add[3d5e019f-eb71-47c6-af61-a767d7a7a9f3] succeeded in 0.02254702800019004s: 7
+[2024-02-02 21:49:43,851: INFO/MainProcess] Task app1.tasks.add[a61c8252-a72d-4de3-9b6b-015e61f1bed5] received
+[2024-02-02 21:49:43,860: INFO/ForkPoolWorker-8] Task app1.tasks.add[a61c8252-a72d-4de3-9b6b-015e61f1bed5] succeeded in 0.008217862999799763s: 7
+
+worker: Warm shutdown (MainProcess)
+[2024-02-02 21:52:38,369: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 21:52:38,374: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-02 21:52:38,375: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 21:52:38,376: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-02 21:52:39,383: INFO/MainProcess] mingle: all alone
+[2024-02-02 21:52:39,402: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-02 21:52:42,219: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-02 21:53:00,135: INFO/MainProcess] Task app1.tasks.add[b52cf270-0179-4fd7-85c4-23e682984af1] received
+[2024-02-02 21:53:00,151: INFO/ForkPoolWorker-8] Task app1.tasks.add[b52cf270-0179-4fd7-85c4-23e682984af1] succeeded in 0.013779210999928182s: 'Se agrego la persona luis abraham con el correo asd@asd..com'
+
+worker: Warm shutdown (MainProcess)
+[2024-02-02 22:05:24,034: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:05:24,040: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-02 22:05:24,041: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:05:24,044: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-02 22:05:25,051: INFO/MainProcess] mingle: all alone
+[2024-02-02 22:05:25,072: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-02 22:05:27,218: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-02 22:05:35,715: INFO/MainProcess] Task app1.tasks.add[aa4e6ace-7877-4608-a599-dd6448513269] received
+[2024-02-02 22:05:37,183: INFO/ForkPoolWorker-8] Task app1.tasks.add[aa4e6ace-7877-4608-a599-dd6448513269] succeeded in 1.4655613979998634s: 'Se agrego la persona asdad asdasd con el correo asdad'
+
+worker: Warm shutdown (MainProcess)
+[2024-02-02 22:06:40,879: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:06:40,886: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-02 22:06:40,886: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:06:40,888: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-02 22:06:41,895: INFO/MainProcess] mingle: all alone
+[2024-02-02 22:06:41,919: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-02 22:06:42,219: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-02 22:06:56,936: INFO/MainProcess] Task app1.tasks.add[8f698181-a2a2-41ac-a26d-999f7a1917aa] received
+[2024-02-02 22:06:58,043: INFO/ForkPoolWorker-8] Task app1.tasks.add[8f698181-a2a2-41ac-a26d-999f7a1917aa] succeeded in 1.1046762020000642s: 'Se agrego la persona roger arjona con el correo luis@adminolt.com'
+
+worker: Warm shutdown (MainProcess)
+[2024-02-02 22:07:39,156: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:07:39,162: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-02 22:07:39,163: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:07:39,164: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-02 22:07:40,172: INFO/MainProcess] mingle: all alone
+[2024-02-02 22:07:40,197: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-02 22:07:42,218: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-02 22:08:10,970: INFO/MainProcess] Task app1.tasks.add[67c58c5f-663e-492d-967e-70c1a83fcc0f] received
+[2024-02-02 22:08:12,033: INFO/ForkPoolWorker-8] Task app1.tasks.add[67c58c5f-663e-492d-967e-70c1a83fcc0f] succeeded in 1.0611005740001929s: 'Se agrego la persona jose santos con el correo asd@asd.com'
+[2024-02-02 22:59:27,732: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 340, in start
+    blueprint.start(self)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 742, in start
+    c.loop(*c.loop_args())
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 373, in create_loop
+    cb(*cbargs)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 1341, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 566, in on_readable
+    chan.handlers[type]()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 910, in _receive
+    ret.append(self._receive_one(c))
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 920, in _receive_one
+    response = c.parse_response()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 824, in parse_response
+    response = self._execute(conn, try_read)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 800, in _execute
+    return conn.retry.call_with_retry(
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 802, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 789, in _disconnect_raise_connect
+    raise error
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 801, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 822, in try_read
+    return conn.read_response(disconnect_on_error=False, push_request=True)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/connection.py", line 500, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2024-02-02 22:59:27,736: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:391: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2024-02-02 22:59:27,739: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-02 22:59:27,740: ERROR/MainProcess] consumer: Cannot connect to redis://:**@localhost:6379/0: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+[2024-02-03 14:02:57,805: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-03 14:02:58,211: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-03 14:02:58,212: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-03 14:02:58,239: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-03 14:02:59,297: INFO/MainProcess] mingle: all alone
+[2024-02-03 14:02:59,332: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-03 14:03:14,590: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-03 18:56:02,691: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 340, in start
+    blueprint.start(self)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 742, in start
+    c.loop(*c.loop_args())
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 373, in create_loop
+    cb(*cbargs)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 1341, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 566, in on_readable
+    chan.handlers[type]()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 910, in _receive
+    ret.append(self._receive_one(c))
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 920, in _receive_one
+    response = c.parse_response()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 824, in parse_response
+    response = self._execute(conn, try_read)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 800, in _execute
+    return conn.retry.call_with_retry(
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 802, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 789, in _disconnect_raise_connect
+    raise error
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 801, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 822, in try_read
+    return conn.read_response(disconnect_on_error=False, push_request=True)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/connection.py", line 500, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2024-02-03 18:56:02,703: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:391: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2024-02-03 18:56:02,707: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-03 18:56:02,708: ERROR/MainProcess] consumer: Cannot connect to redis://:**@localhost:6379/0: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+[2024-02-04 14:12:58,957: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-04 14:12:59,375: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-04 14:12:59,377: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-04 14:12:59,394: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-04 14:13:00,442: INFO/MainProcess] mingle: all alone
+[2024-02-04 14:13:00,526: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-04 14:13:13,870: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-04 18:15:07,090: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-04 18:15:07,322: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-04 18:15:07,323: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-04 18:15:07,338: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-04 18:15:08,370: INFO/MainProcess] mingle: all alone
+[2024-02-04 18:15:08,430: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-04 18:15:24,369: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-04 22:14:06,713: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 340, in start
+    blueprint.start(self)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 742, in start
+    c.loop(*c.loop_args())
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 373, in create_loop
+    cb(*cbargs)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 1341, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 566, in on_readable
+    chan.handlers[type]()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 910, in _receive
+    ret.append(self._receive_one(c))
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 920, in _receive_one
+    response = c.parse_response()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 824, in parse_response
+    response = self._execute(conn, try_read)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 800, in _execute
+    return conn.retry.call_with_retry(
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 802, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 789, in _disconnect_raise_connect
+    raise error
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 801, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 822, in try_read
+    return conn.read_response(disconnect_on_error=False, push_request=True)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/connection.py", line 500, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2024-02-04 22:14:06,720: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:391: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2024-02-04 22:14:06,725: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-04 22:14:06,732: ERROR/MainProcess] consumer: Cannot connect to redis://:**@localhost:6379/0: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+[2024-02-05 16:04:05,872: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-05 16:04:06,176: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-05 16:04:06,177: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-05 16:04:06,205: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-05 16:04:07,348: INFO/MainProcess] mingle: all alone
+[2024-02-05 16:04:07,541: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-05 16:04:23,437: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-02-05 21:54:08,142: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 340, in start
+    blueprint.start(self)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 742, in start
+    c.loop(*c.loop_args())
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 373, in create_loop
+    cb(*cbargs)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 1341, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 566, in on_readable
+    chan.handlers[type]()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 910, in _receive
+    ret.append(self._receive_one(c))
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/kombu/transport/redis.py", line 920, in _receive_one
+    response = c.parse_response()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 824, in parse_response
+    response = self._execute(conn, try_read)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 800, in _execute
+    return conn.retry.call_with_retry(
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 802, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 789, in _disconnect_raise_connect
+    raise error
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 801, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/client.py", line 822, in try_read
+    return conn.read_response(disconnect_on_error=False, push_request=True)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/connection.py", line 500, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2024-02-05 21:54:08,147: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:391: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2024-02-05 21:54:08,150: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-05 21:54:08,151: ERROR/MainProcess] consumer: Cannot connect to redis://:**@localhost:6379/0: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+[2024-02-06 14:01:56,778: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-06 14:01:57,055: INFO/MainProcess] Connected to redis://:**@localhost:6379/0
+[2024-02-06 14:01:57,056: WARNING/MainProcess] /home/luis/Documentos/github/practicas/env_practica/lib/python3.8/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-02-06 14:01:57,063: INFO/MainProcess] mingle: searching for neighbors
+[2024-02-06 14:01:58,112: INFO/MainProcess] mingle: all alone
+[2024-02-06 14:01:58,145: INFO/MainProcess] celery@luis-wisphub ready.
+[2024-02-06 14:02:14,422: INFO/MainProcess] Events of group {task} enabled by remote.
+
+worker: Warm shutdown (MainProcess)
